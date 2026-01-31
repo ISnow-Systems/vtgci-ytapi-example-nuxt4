@@ -1,0 +1,21 @@
+{
+	"name": "video-card-vue",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare"
+	},
+	"devDependencies": {
+		"@tailwindcss/vite": "^4.1.18",
+		"@types/node": "^25.1.0",
+		"lucide-vue-next": "^0.563.0",
+		"nuxt": "^4.3.0",
+		"tailwindcss": "^4.1.18",
+		"vue": "^3.5.27",
+		"vue-router": "^5.0.1"
+	}
+}
